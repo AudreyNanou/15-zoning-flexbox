@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    background-color: skyblue;
+    height: 10vh;
+}
+
+.nav {
+    background-color: cadetblue;
+    height: 10vh;
+}
+
+#container {
+    background-color: gray;
+    border: 1px solid green;
+    display: flex;
+    height: 70vh;
+}
+
+.zoneA {
+    background-color: dimgrey;
+    width: 25%;
+
+}
+
+.zoneB {
+    background-color: aquamarine;
+    width: 50%;
+}
+
+.zoneC {
+    background-color: gray;
+    width: 25%;
+}
+
+
+.footer {
+    background-color: skyblue;
+    height: 10vh;
+
+}

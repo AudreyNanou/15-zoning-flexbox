@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    background-color: cadetblue;
+    height: 20vh;
+}
+
+.nav {
+    background-color: skyblue;
+    height: 15vh;
+}
+
+
+#container1 {
+    display: flex;
+    height: 30vh;
+}
+
+#container2 {
+    display: flex;
+    height: 30vh;
+}
+
+.zoneB {
+    background-color: royalblue;
+    width: 50%;
+}
+
+.zoneC {
+    background-color: darkseagreen;
+    width: 50%;
+}
+
+.zoneD {
+    background-color: darkseagreen;
+    width: 50%;
+}
+
+.zoneE {
+    background-color: royalblue;
+    width: 50%;
+}
+
+
+.footer {
+    background-color: skyblue;
+    height: 10vh;
+
+}

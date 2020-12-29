@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    background-color: #009688;
+    padding-bottom: 50px;
+    height: 15vh;
+}
+
+.nav {
+    background-color: #00675b;
+    /*    padding-bottom: 15px;*/
+    height: 15vh;
+}
+
+#container {
+    background-color: white;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    padding: 1.5%;
+}
+
+.zoneA {
+    background-color: darkseagreen;
+    height: 20vh;
+}
+
+.zoneB {
+    background-color: aquamarine;
+    height: 80vh;
+}
+
+
+.footer {
+/*    display: flex;*/
+    background-color: #009688;
+    height: 10vh;
+
+}

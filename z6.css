@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    background-color: grey;
+    height: 15vh;
+}
+
+.nav {
+    background-color: darkgray;
+    height: 10vh;
+}
+
+/*
+.zoneA {
+    background-color: darkred;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    height: 200px;}
+*/
+
+#container {
+    display: flex;
+    height: 65vh;
+}
+
+.zoneA {
+    background-color: skyblue;
+    width: 50%;
+}
+
+.zoneB {
+    background-color: cadetblue;
+    width: 50%;
+}
+
+.footer {
+    background-color: gray;
+    height: 10vh;
+
+}

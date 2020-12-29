@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.header {
+    background-color: #f4511e;
+    height: 10vh;}
+
+.nav {
+    background-color: #ef534f;
+    height: 15vh;}
+
+.zoneA {
+    background-color: darkred;
+    display: flex;
+/*    flex-direction: row;*/
+    height: 20vh;}
+
+#container {
+    background-color: gray;
+    border: 1px solid green;
+    display: flex;
+    height: 30vh;
+}
+
+.zoneB {
+    background-color: #ef534f;
+    width: 50%;
+}
+.zoneC{
+    background-color: #ab0447;
+    width: 50%;
+}
+
+.zoneD {
+    background-color: coral;
+    display: flex;
+    flex-direction: row;
+    height: 15vh;}
+
+.footer {
+    background-color: red;
+    height: 10vh;
+
+}
